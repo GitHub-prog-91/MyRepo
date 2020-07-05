@@ -1,1 +1,2 @@
-first file, modified 1
+first file, modified
+we doing a anew changes in file third time for testing 
