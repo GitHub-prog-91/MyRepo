@@ -1,0 +1,311 @@
+    1  exit
+    2  update
+    3  sudo update
+    4  sudo yum update
+    5  sudo yum install git
+    6  git config --global user.name "GitHub-porg-91"
+    7  git config --global user.email "mdash332@gmail.com"
+    8  git --list
+    9  git config --list
+   10  pwd
+   11  ll
+   12  ls
+   13  ls -ltr
+   14  mkdir gitrepos
+   15  cd gitrepos
+   16  ls 
+   17  ls gitrepos
+   18  ls ltr
+   19  cd gitrepos
+   20  /pwd
+   21  ll
+   22  cd gitrepos/
+   23  ..
+   24  .
+   25  cd ..
+   26  cd gitrepos/
+   27  ls -ltr
+   28  ll
+   29  mkdir gitbin
+   30  cd gitbin/
+   31  ll
+   32  cd gitrepos
+   33  cd gitrepos/
+   34  cd ..
+   35  ls 
+   36  cd gitrepos/
+   37  ls
+   38  git init
+   39  ls
+   40  cd gitbin
+   41  pwd
+   42  git init
+   43  ls -a
+   44  ls -l
+   45  pwd
+   46  ls -ltr
+   47  clear
+   48  ll
+   49  ls
+   50  cd ..
+   51  ls 
+   52  ls -ltr
+   53  cd gitbin
+   54  cd ..
+   55  cd gitbin
+   56  pwd
+   57  cd gitrepos/gitbin
+   58  cd gitrepos
+   59  cd ..
+   60  cd gitrepos
+   61  pwd
+   62  clear
+   63  cd gitbin
+   64  cd gitrepos
+   65  ls
+   66  la -a
+   67  ls -tr
+   68  ls -ltr
+   69  cd dev
+   70  ls 
+   71  cd tmp
+   72  cd ..
+   73  cd tmp
+   74  ls -a
+   75  cd ..
+   76  cd .
+   77  cd ..
+   78  clear
+   79  git config
+   80  cd gitrepos
+   81  cd ..
+   82  ll
+   83  git version
+   84  git status
+   85  /
+   86  exit
+   87  ls
+   88  ls -ltr
+   89  ifconfig
+   90  cd gitrepo
+   91  ll
+   92  cd gitrepos
+   93  cd gitbin
+   94  ll
+   95  cd MyRepo
+   96  ll
+   97  Touch .gitignore
+   98  cd ..
+   99  touch .gitingnore
+  100  vi .gitingnore
+  101  touch app.bin
+  102  touch app1.bin
+  103  touch app.log creds
+  104  git status
+  105  git diff
+  106  touch .gitignore
+  107  vi .gitignore
+  108  git status
+  109  vi .gitingnore
+  110  vi .gitignore
+  111  git status
+  112  clear
+  113  ll
+  114  cd MyRepo
+  115  ll
+  116  cd creds
+  117  cd ..
+  118  ll
+  119  ls -a
+  120  ls -ltr
+  121  ls -lart
+  122  cd .git
+  123  ls -a
+  124  cd info
+  125  ll
+  126  cat exclude
+  127  clear
+  128  cd ..
+  129  git loig
+  130  got log
+  131  git log
+  132  git commit
+  133  git commit --amend
+  134  ll
+  135  cd MyRepo
+  136  ll
+  137  git log
+  138  git commit --amend
+  139  ll
+  140  cd ..
+  141  ll
+  142  ls -lart
+  143  exit
+  144  cd gitrepos/
+  145  cd gitbin
+  146  git status
+  147  git clone https://github.com/GitHub-prog-91/MyRepo.git
+  148  ll
+  149  cd MyRepo
+  150   clear
+  151  ll
+  152  cat Tuo1.txt
+  153  vim Tuo1.txt
+  154  vi tuo1.txt
+  155  cat tu01.txt
+  156  cat Tu01.txt
+  157  lw
+  158  ls
+  159  cat tu01.txt
+  160  cat tuo1.txt
+  161  git status
+  162  git add .
+  163  git status
+  164  git commit -am .
+  165  git commit -am "new file created in MyRepo"
+  166  git status
+  167  git log
+  168  git diff
+  169  ll
+  170  clear
+  171  ll
+  172  vi tuo1.txt
+  173  git status
+  174  git diff
+  175  git commit -am "second modfying in tu01.txt"
+  176  git status
+  177  git log
+  178  clear
+  179  ll
+  180  vi Tuo1.txt
+  181  git status
+  182  git commit -am "git changes sucessfully done"
+  183  git diff
+  184  git log
+  185  git diff
+  186  clear
+  187  ll
+  188  vi Tuo1.txt
+  189  git diff
+  190  git commit -am "super changes"
+  191  git status
+  192  git log
+  193  git push
+  194  git remote
+  195  git remote -v
+  196  cd git-repos
+  197  ls -lts
+  198  cd gitrepos
+  199  ls
+  200  cd gitbin
+  201  ls
+  202   ls -a
+  203  cd .git/
+  204  ls -a
+  205  ls
+  206  ls -ltr
+  207  touch test1.txt test2.txt test3.txt test4.txt
+  208  git status
+  209  ls 
+  210  git status
+  211  ll
+  212  cd .
+  213  cd..
+  214  cd.
+  215  cd .
+  216  cd ..
+  217  touch sanu.bin sanu2.txt sanu3.bin sanu4.txt
+  218  ls
+  219  ls -a
+  220  git status
+  221  git add sanu.bin  sanu2.txt
+  222  git status
+  223  git add .
+  224  git status
+  225  git commit -am "first commit"
+  226  git status
+  227  l
+  228  ls
+  229  ls -ltr
+  230  echo "some changes to the file."
+  231  echo "some changes to the file" >> sanu.bin
+  232  git status
+  233  echo "some changes to the file" >> sanu4.xt sanu2.txt
+  234  git status
+  235  echo "some changes to the file" >> sanu2.txt >> sanu3.bin
+  236  git status
+  237  git add .
+  238  git status
+  239  git commit -am "modified sanu.bin sanu3.bin sanu4.xt"
+  240  git status
+  241  git log
+  242  cd gitrepos
+  243  cd gitbin
+  244  ll
+  245  cd MyRepo
+  246  ll
+  247  cat tuo1.txt
+  248  git status
+  249  git pull
+  250  cat tuo1.txt
+  251  git status
+  252  git diff
+  253  git log
+  254  cd
+  255  ll
+  256  clear
+  257  tree
+  258  sudo apt-get install tree
+  259  sudo yum install tree
+  260  tree
+  261  tree -a 
+  262  cd gitbin
+  263  git/girepos/gitbin
+  264  ls
+  265  cd gitrepos/gitbin
+  266  sudo tree
+  267  tree -a
+  268  tree -f
+  269  tree -d
+  270  tree -df
+  271  tree -f --prune
+  272  exit
+  273  ls
+  274  cd gitrepos
+  275  ls
+  276  cd gitbin
+  277  ls
+  278  tree
+  279  cd MyRepo
+  280  tree
+  281  cd gitrepos/gitbin
+  282  tree
+  283  tree -a
+  284  tree -f
+  285  tree -d
+  286  tree -df
+  287  tree -f -L 2
+  288  tree -L
+  289  tree -L 2
+  290  tree -L -3
+  291  tree -L 3
+  292  tree -p s*
+  293  tree -f -P sanu*
+  294  tree -f -P Tuo*
+  295  tree -f -p
+  296  tree -f -pug
+  297  tree -f -s
+  298  tree -f -h
+  299  tree -f -hs
+  300  tree -f -pug -h -D
+  301  tree -f --du
+  302  tree -o direct_op.txt
+  303  ls
+  304  cat direct_op.txt
+  305  cd MyRepo
+  306  ls
+  307  tree
+  308  tree -h
+  309  tree -f -pug -D
+  310  history
+  311  history > tuo.txt
