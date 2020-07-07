@@ -1,6 +1,2 @@
 this is first file for git testi
-doing an new chnages in yhis file for testing in git  
-bala naa 
-mula naa 
-doo naa
-chaa naa
+doing an new chnages in yhis file for testing in git
