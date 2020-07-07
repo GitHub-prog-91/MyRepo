@@ -1,1 +1,2 @@
 doing an new chnages in this file for testing in git
+this line was added after the conflict was removed
